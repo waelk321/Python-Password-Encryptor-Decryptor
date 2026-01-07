@@ -3,6 +3,7 @@ Simple Python program to encrypt/decrypt passwords using a shuffled character ma
 Supports letters, digits, punctuation, and spaces
 
 This project uses two lists:
+
 encrypt: the original alphabet (space + punctuation + letters + digits)
 
 key: a shuffled copy of that alphabet
