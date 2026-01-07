@@ -4,6 +4,7 @@ Supports letters, digits, punctuation, and spaces
 
 This project uses two lists:
 encrypt: the original alphabet (space + punctuation + letters + digits)
+
 key: a shuffled copy of that alphabet
 
 Encryption maps each character from encrypt → key by index.
